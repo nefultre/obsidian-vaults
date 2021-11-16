@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "40d6711da4be8f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8e4d227b2e5a2a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Coding-Initiatives.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8db2cc023379ade1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c78d4d6f7b9f9a9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6447abdd822403c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a175060035cdb01b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7768dc8435fd6cc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f3938aa509420ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb92e1cd317d45fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coding-Initiatives.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c8e4d227b2e5a2a0",
+  "lastOpenFiles": [
+    "Coding-Initiatives.md",
+    "Coding-Links.md"
+  ]
+}
