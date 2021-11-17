@@ -13,6 +13,11 @@
 | link 2 |  |
 | Markdown guide [markdownguide.org](https://www.markdownguide.org/getting-started/) | |
 
+## HTML
+|links |  |
+| ------- | --------- |
+| HTML5 Validation [validator](https://validator.w3.org/) |  |
+
 ## CSS
 | links |  |
 | ------- | --------- |
